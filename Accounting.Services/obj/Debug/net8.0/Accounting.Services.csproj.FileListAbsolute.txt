@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Services\bin\Debug\net8.0\Accounting.Services.deps.json
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Services\bin\Debug\net8.0\Accounting.Services.dll
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Services\bin\Debug\net8.0\Accounting.Services.pdb
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Services\obj\Debug\net8.0\Accounting.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Services\obj\Debug\net8.0\Accounting.Services.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Services\obj\Debug\net8.0\Accounting.Services.AssemblyInfo.cs
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Services\obj\Debug\net8.0\Accounting.Services.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Services\obj\Debug\net8.0\Accounting.Services.dll
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Services\obj\Debug\net8.0\refint\Accounting.Services.dll
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Services\obj\Debug\net8.0\Accounting.Services.pdb
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Services\obj\Debug\net8.0\ref\Accounting.Services.dll

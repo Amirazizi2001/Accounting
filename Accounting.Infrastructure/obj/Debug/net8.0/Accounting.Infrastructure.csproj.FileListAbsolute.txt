@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Infrastructure\bin\Debug\net8.0\Accounting.Infrastructure.deps.json
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Infrastructure\bin\Debug\net8.0\Accounting.Infrastructure.runtimeconfig.json
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Infrastructure\bin\Debug\net8.0\Accounting.Infrastructure.dll
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Infrastructure\bin\Debug\net8.0\Accounting.Infrastructure.pdb
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.AssemblyInfo.cs
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.dll
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\refint\Accounting.Infrastructure.dll
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.pdb
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.genruntimeconfig.cache
+C:\Users\pc\Desktop\Accounting\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\ref\Accounting.Infrastructure.dll
