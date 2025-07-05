@@ -31,31 +31,31 @@ namespace Accounting.Domain.Entities
     }
     public enum AccountType
     {
-        Asset,    
-        Liability,  
-        Equity,
-        Revenue,
+        Asset,    //دارایی
+        Liability,  //بدهی
+        Equity,  //سرمایه
+        Revenue,  //درآمد هزینه
         Expense
     }
     public enum AccountKind
     {
-        Permanent,
-        Temoorary,
-        Mixed
+        Permanent,//دائمی
+        Temoorary, //موقت
+        Mixed //مخلوط
         
     }
     public enum AccountNature
     {
-        Debit,
-        Credit,
-        Neutral
+        Debit,  //بدهکار
+        Credit,  //بستانکار
+        Neutral //خنثی
     }
     public enum AccountLevel
     {
-        AccountGroup,
-        Total,
-        Specific,
-        Tafzil
+        AccountGroup,   //گروه حساب
+        General,  //حساب کل
+        Subsidiary,   //حساب معین
+        Detailed    //حساب تفضیل
 
     }
 }

@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\Accounting\\Accounting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\accounttree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\accounttree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\documententitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\documententitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\entitysoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\entitysoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\entryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\entryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\entrytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\entrytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\entrytemplateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\entrytemplateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\ledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\ledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\fiscalyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\fiscalyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\ledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\ledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\entrytemplateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\entrytemplateitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\entrytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\entrytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\entryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\entryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\entitysoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\entitysoft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\documententitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\documententitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\accounttree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\accounttree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\pc\\desktop\\accounting\\accounting\\accounting.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E873660A-0127-48D3-9E30-903DAEAEC54A}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,24 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Ledger.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Accounting\\Accounting\\Accounting.Domain\\Entities\\Ledger.cs",
               "RelativeDocumentMoniker": "Accounting.Domain\\Entities\\Ledger.cs",
               "ToolTip": "C:\\Users\\pc\\Desktop\\Accounting\\Accounting\\Accounting.Domain\\Entities\\Ledger.cs",
               "RelativeToolTip": "Accounting.Domain\\Entities\\Ledger.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T04:27:27.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "EntryTemplateItem.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Accounting\\Accounting\\Accounting.Domain\\Entities\\EntryTemplateItem.cs",
               "RelativeDocumentMoniker": "Accounting.Domain\\Entities\\EntryTemplateItem.cs",
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "FiscalYear.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Accounting\\Accounting\\Accounting.Domain\\Entities\\FiscalYear.cs",
               "RelativeDocumentMoniker": "Accounting.Domain\\Entities\\FiscalYear.cs",
@@ -97,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "EntryTemplate.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Accounting\\Accounting\\Accounting.Domain\\Entities\\EntryTemplate.cs",
               "RelativeDocumentMoniker": "Accounting.Domain\\Entities\\EntryTemplate.cs",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "EntryItem.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Accounting\\Accounting\\Accounting.Domain\\Entities\\EntryItem.cs",
               "RelativeDocumentMoniker": "Accounting.Domain\\Entities\\EntryItem.cs",
@@ -136,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EntitySoft.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Accounting\\Accounting\\Accounting.Domain\\Entities\\EntitySoft.cs",
               "RelativeDocumentMoniker": "Accounting.Domain\\Entities\\EntitySoft.cs",
@@ -149,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "AccountTree.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Accounting\\Accounting\\Accounting.Domain\\Entities\\AccountTree.cs",
               "RelativeDocumentMoniker": "Accounting.Domain\\Entities\\AccountTree.cs",
@@ -162,20 +162,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Accounting\\Accounting\\Accounting.Domain\\Entities\\Account.cs",
               "RelativeDocumentMoniker": "Accounting.Domain\\Entities\\Account.cs",
               "ToolTip": "C:\\Users\\pc\\Desktop\\Accounting\\Accounting\\Accounting.Domain\\Entities\\Account.cs",
               "RelativeToolTip": "Accounting.Domain\\Entities\\Account.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAA4wCEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T18:31:46.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "DocumentEntityBase.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Accounting\\Accounting\\Accounting.Domain\\Entities\\DocumentEntityBase.cs",
               "RelativeDocumentMoniker": "Accounting.Domain\\Entities\\DocumentEntityBase.cs",
@@ -188,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Desktop\\Accounting\\Accounting\\Accounting.Domain\\Entities\\Entity.cs",
               "RelativeDocumentMoniker": "Accounting.Domain\\Entities\\Entity.cs",
